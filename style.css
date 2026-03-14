@@ -44,6 +44,11 @@ header {
     text-align: left;
 }
 
+#logo {
+    width: 100px;
+    height: auto;
+}
+
 h1 {
     font-size: 3rem;
     font-weight: 500;
